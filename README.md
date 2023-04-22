@@ -11,9 +11,9 @@ Use only the MOV, ADD, and SUB commands in the appropriate registers to manipula
 Finally move all results to the 32 bit register in order to add them all together. Store the results in dwTotal. <br/>
 
 In order to run this code you will need to modify and upload to vsCode or download the following zip files: <br/>
-masm615.zip <br/>
-Irvine.zip <br/>
-Satterley_ASM.zip <br/>
+<b>masm615.zip<b/> <br/>
+<b>Irvine.zip<b/> <br/>
+<b>Satterley_ASM.zip<b/> <br/>
 and store them in the C drive of your device. <br/> 
 
 Then go to the search bar at the bottom of your screen and type the letters CMD to open your command prompt. <br/>
