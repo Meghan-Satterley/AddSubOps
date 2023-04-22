@@ -10,7 +10,7 @@ Repeat this process for similarly-named WORD and DWORD operands
 Use only the MOV, ADD, and SUB commands in the appropriate registers to manipulate data.
 Finally move all results to the 32 bit register in order to add them all together. Store the results in dwTotal.
 
-In order to run this code you will need to download the following zip files: <br \> 
+In order to run this code you will need to download the following zip files: <br/>
 masm615.zip
 Irvine.zip
 and store them in the C drive of your device. 
