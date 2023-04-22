@@ -26,7 +26,7 @@ You should see the following files appear in your folder directory <br>
 <b> Meghan-Satterley_AddSubOps </b> <br> <br>
 The following will result if executed correctly <br>
 ![AddSubOps_Exe](https://user-images.githubusercontent.com/114275745/233752020-96aab76d-3310-4103-8e22-6ecf04d93695.png)
-<br> The complete assembly program has 19 variables (6 in each set of 3 different data sizes and one overall total), 
+<br> <br> The complete assembly program has 19 variables (6 in each set of 3 different data sizes and one overall total), 
 <br> three separate mempry dumps of sum, diff, and result 
 <br> plus one memory dump of the total
 <br> the purpose of this program is to show an understanding of basic data manipulation and proper register use.
