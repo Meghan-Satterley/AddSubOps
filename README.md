@@ -17,8 +17,13 @@ Satterley_ASM.zip <br/>
 and store them in the C drive of your device. <br/> 
 
 Then go to the search bar at the bottom of your screen and type the letters CMD to open your command prompt. <br/>
-Then type or copy and paste the following lines to create an executable file and execute the program. <br/>
+Next type or copy and paste the following lines to create an executable file and execute the program. <br/> <br/>
 cd C:\Satterley_ASM <br/>
-make32 Meghan-Satterley_AddSubOps <br/>
-You should see the following files appear in your folder directory <br/>
+make32 Meghan-Satterley_AddSubOps <br/> <br/>
+You should see the following files appear in your folder directory <br/> <br/>
 ![make32_AddSubOps](https://user-images.githubusercontent.com/114275745/233751881-a647e883-cfd8-4712-8357-9e915ef2c3da.png)
+<br/> Lastly type the following line to execute the program <br/>
+Meghan-Satterley_AddSubOps <br/>
+The following will result if executed correctly <br/>
+![AddSubOps_Exe](https://user-images.githubusercontent.com/114275745/233752020-96aab76d-3310-4103-8e22-6ecf04d93695.png)
+
