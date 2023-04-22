@@ -5,12 +5,19 @@ This program implements specific addition and subtraction operations for differe
 The following directions where given:
 1) add three predefined numbers together and store in bSum
 2) Subtract the first number from the sum of the second and third number. Store the results in bDiff.
-3) add bSum and bDiff. Store the results in bResult.
-Repeat this process for similarly-named WORD and DWORD operands
-Use only the MOV, ADD, and SUB commands in the appropriate registers to manipulate data.
-Finally move all results to the 32 bit register in order to add them all together. Store the results in dwTotal.
+3) add bSum and bDiff. Store the results in bResult. <br/>
+Repeat this process for similarly-named WORD and DWORD operands <br/>
+Use only the MOV, ADD, and SUB commands in the appropriate registers to manipulate data. <br/>
+Finally move all results to the 32 bit register in order to add them all together. Store the results in dwTotal. <br/>
 
-In order to run this code you will need to download the following zip files: <br/>
-masm615.zip
-Irvine.zip
-and store them in the C drive of your device. 
+In order to run this code you will need to modify and upload to vsCode or download the following zip files: <br/>
+masm615.zip <br/>
+Irvine.zip <br/>
+Satterley_ASM.zip <br/>
+and store them in the C drive of your device. <br/> 
+
+Then go to the search bar at the bottom of your screen and type the letters CMD to open your command prompt. <br/>
+Then type or copy and paste the following lines to create an executable file and execute the program. <br/>
+cd C:\Satterley_ASM <br/>
+make32 Meghan-Satterley_AddSubOps <br/>
+You should see the following files appear in your folder directory <br/>
