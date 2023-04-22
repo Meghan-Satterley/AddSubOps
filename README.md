@@ -21,3 +21,4 @@ Then type or copy and paste the following lines to create an executable file and
 cd C:\Satterley_ASM <br/>
 make32 Meghan-Satterley_AddSubOps <br/>
 You should see the following files appear in your folder directory <br/>
+![make32_AddSubOps](https://user-images.githubusercontent.com/114275745/233751881-a647e883-cfd8-4712-8357-9e915ef2c3da.png)
