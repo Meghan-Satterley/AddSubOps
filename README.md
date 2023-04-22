@@ -1,6 +1,6 @@
 # AddSubOps
-coded in x86 assembly language
-This program implements specific addition and subtraction operations for different bit sizes on all registers
+coded in x86 assembly language <br/>
+This program implements specific addition and subtraction operations for different bit sizes on all registers <br/>
 
 The following directions where given:
 1) add three predefined numbers together and store in bSum
